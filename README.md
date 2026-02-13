@@ -1,2 +1,0 @@
-# -c-bank
-mvp gus
